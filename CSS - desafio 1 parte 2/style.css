@@ -1,0 +1,91 @@
+* {
+    font-family: "poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.titulo {
+    margin: 47px 0px 0px 42px;
+}
+
+.link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0.88px;
+    width: 79px;
+    height: 21px;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 32px;
+}
+
+button {
+    background: #29B536;
+    border-radius: 30px;
+    cursor: pointer;
+    color: white;
+    width: 124px;
+    height: 51px;
+    border: none;
+    box-shadow: #6FBF44;
+}
+
+button:hover {
+    opacity: 0.4;
+}
+
+button:active {
+    opacity: .8;
+}
+
+
+img {
+    width: 595px;
+    height: 500px;
+    display: inline-block;
+    margin: 163px 0px 0px 121px;
+}
+
+.texto {
+    display: inline-block;
+    margin-left: 85px;
+    width: 493px;
+}
+
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    width: 582px;
+    color: #161A49;
+    
+
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    margin-top: 47px;
+    margin-bottom: 55px;
+
+}
+
+.botao {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    width: 112px;
+    height: 27px;
+    color: #6FBF44;
+    cursor: pointer;  
+    margin-top: 55px;
+
+}
